@@ -1,0 +1,12 @@
+#include <stdio>
+#include <stdlib>
+#include <time.h>
+#include <math.h>
+
+
+int main (void){
+srand((int)time(0));
+int randNum = rand();
+
+
+}
